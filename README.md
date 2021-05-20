@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been created with a tech stack: bootstrap, react, redux, Hook.
+
+## How to run this web quickly 
+
+```sh
+npm install  
+npm start
+```
+
 
 ## Available Scripts
 
