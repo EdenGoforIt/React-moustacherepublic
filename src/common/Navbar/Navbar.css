@@ -1,0 +1,26 @@
+ .nav-container{  
+    color:#888888;
+     background-color: #F6F6F7; 
+     height: 35px;
+     line-height: 35px;
+ }
+ 
+ .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content { 
+    position: absolute;
+    background-color: white;
+    min-width: 250px; 
+    padding:20px 0;
+    z-index: 1;
+    border: 1px solid gray;
+    border-color: #CCCCCC;
+    margin-top:35px;
+    display: none;
+    right: -9.2vw;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
